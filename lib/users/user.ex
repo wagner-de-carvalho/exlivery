@@ -6,7 +6,7 @@ defmodule Exlivery.Users.User do
   def build(name, email, cpf, age, address) when age >= 18 and is_bitstring(cpf) do
     {:ok,
      %__MODULE__{
-      address: address,
+       address: address,
        age: age,
        cpf: cpf,
        email: email,
