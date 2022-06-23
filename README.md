@@ -8,3 +8,4 @@ Aplicação de criação de pedidos de comida para entrega.
 - `Pattern Matching`: [Pattern matching](https://hexdocs.pm/elixir/patterns-and-guards.html)
 - `Struct`: [Struct](https://hexdocs.pm/elixir/Kernel.html#struct/2)
 - `UUID`: [UUID](https://hexdocs.pm/uuid/readme.html)
+_ `with/1`: [With](https://hexdocs.pm/elixir/Kernel.SpecialForms.html#with/1)
