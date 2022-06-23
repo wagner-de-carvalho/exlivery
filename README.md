@@ -7,3 +7,4 @@ Aplicação de criação de pedidos de comida para entrega.
 - `Map`: [Map](https://hexdocs.pm/elixir/Map.html)
 - `Pattern Matching`: [Pattern matching](https://hexdocs.pm/elixir/patterns-and-guards.html)
 - `Struct`: [Struct](https://hexdocs.pm/elixir/Kernel.html#struct/2)
+- `UUID`: [UUID](https://hexdocs.pm/uuid/readme.html)
