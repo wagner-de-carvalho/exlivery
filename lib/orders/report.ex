@@ -8,7 +8,7 @@ defmodule Exlivery.Orders.Report do
     File.write(file_name, order_list)
   end
 
-  defp build_order_list() do
+  defp build_order_list do
     OrderAgent.list_all()
     |> Map.values()
     |> Enum.map(&order_string/1)
