@@ -26,3 +26,4 @@ exlivery-*.tar
 /tmp/
 .iex.exs
 report.csv
+report_test.csv
